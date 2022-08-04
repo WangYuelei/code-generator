@@ -1,4 +1,4 @@
-# code-generator
+# mybatis-plus-code-generator
 代码生成器
 ## 本人自用mybatis-plus代码生成器
 
